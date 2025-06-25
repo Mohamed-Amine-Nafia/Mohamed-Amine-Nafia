@@ -24,7 +24,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn- Mohamed--Amine--Nafia-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-nafia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed--Amine--Nafia-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-nafia)
 
 ---
 
@@ -35,4 +35,5 @@ When I’m not coding, I enjoy exploring tech blogs, contributing to open-source
 ---
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me. 😊
+
 
