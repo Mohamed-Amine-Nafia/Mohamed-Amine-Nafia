@@ -1,37 +1,37 @@
-<!-- Header with banner or profile image idea -->
 <h1 align="center">Hi 👋, I'm Mohamed Amine Nafia</h1>
 <h3 align="center">Front-End Developer | Lifelong Learner | Building Modern Web Experiences</h3>
 
 ---
 
-<!-- About Me Section -->
 ## 🙋‍♂️ About Me
 
 <p align="justify">
-I am a learner of the <b>ALX Front-End Web Development Program</b> with a passion for transforming ideas into beautiful, accessible, and functional websites. My journey into software engineering started because [<i>insert what inspires you — e.g., "I love solving real-world problems with code"</i>].
+I am a learner of the <b>ALX Front-End Web Development Program</b> with a passion for transforming ideas into beautiful, accessible, and functional websites. My journey into software engineering started because I’ve always been curious about how the websites I use are built. This curiosity turned into a passion for front-end development, where creativity meets problem-solving. Seeing how code transforms into real products inspired me to pursue this journey.
 </p>
 
 <p align="justify">
-My aim is to [<i>insert your vision — e.g., "create meaningful digital experiences that improve lives"</i>]. I am particularly interested in working on [<i>insert the types of projects — e.g., "scalable web applications, open-source contributions, and products that make technology more inclusive"</i>].
+My aim is to create accessible, modern, and meaningful digital experiences that improve people’s daily lives. I want to work on projects that combine design and functionality, while learning from and contributing to the developer community.
+</p>
+
+<p align="justify">
+I'm particularly interested in building responsive web apps, intuitive dashboards, and contributing to open-source projects that have real-world impact.
 </p>
 
 ---
 
-<!-- Connect With Me Section -->
 ## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-amine-nafia" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed--Amine--Nafia-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:m.amine.nafia@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:m.amine.nafia@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-m.amine.nafia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- Tech Stack Section -->
 ## 🛠️ Tech Stack
 
 <table>
@@ -55,7 +55,6 @@ My aim is to [<i>insert your vision — e.g., "create meaningful digital experie
 
 ---
 
-<!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -68,7 +67,6 @@ My aim is to [<i>insert your vision — e.g., "create meaningful digital experie
 
 ---
 
-<!-- Recent Projects Section -->
 ## 🚀 Projects I'm Proud Of
 
 - 🔥 **[Airbnb Clone](#)** — A responsive web app with property listing, filtering, and booking interfaces.
@@ -77,7 +75,6 @@ My aim is to [<i>insert your vision — e.g., "create meaningful digital experie
 
 ---
 
-<!-- Fun Facts or Personal Interests -->
 ## ⚡ Fun Facts
 
 - 🌱 Currently learning **Next.js** and advanced **React patterns**.
@@ -86,10 +83,6 @@ My aim is to [<i>insert your vision — e.g., "create meaningful digital experie
 
 ---
 
-<!-- Footer Message -->
 ## 📫 Feel free to connect, collaborate, or just say hi!
 
 ---
-
-
-
