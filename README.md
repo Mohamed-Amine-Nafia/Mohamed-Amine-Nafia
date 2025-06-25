@@ -26,7 +26,7 @@ I'm particularly interested in building responsive web apps, intuitive dashboard
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed--Amine--Nafia-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:m.amine.nafia@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-m.amine.nafia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
