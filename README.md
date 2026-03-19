@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 <p align="justify">
-I am a learner of the <b>ALX Front-End Web Development Program</b> with a passion for transforming ideas into beautiful, accessible, and functional websites. My journey into software engineering started because I’ve always been curious about how the websites I use are built. This curiosity turned into a passion for front-end development, where creativity meets problem-solving. Seeing how code transforms into real products inspired me to pursue this journey.
+I have a passion for transforming ideas into beautiful, accessible, and functional websites. My journey into software engineering started because I’ve always been curious about how the websites I use are built. This curiosity turned into a passion for front-end development, where creativity meets problem-solving. Seeing how code transforms into real products inspired me to pursue this journey.
 </p>
 
 <p align="justify">
